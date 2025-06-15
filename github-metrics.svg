@@ -219,9 +219,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.38168243877868" height="8" fill="#1a5f91"/>
-                    <rect mask="url(#languages-bar)" x="247.38168243877868" y="0" width="207.59900490732463" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="454.9806873461033" y="0" width="5.019312653896667" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="247.41619127578417" height="8" fill="#1a5f91"/>
+                    <rect mask="url(#languages-bar)" x="247.41619127578417" y="0" width="207.56531072563317" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="454.98150200141737" y="0" width="5.018497998582678" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2269,7 +2269,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Jun 2025, 16:02:51 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Jun 2025, 17:02:37 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
